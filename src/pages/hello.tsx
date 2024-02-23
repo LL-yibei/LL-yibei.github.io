@@ -12,7 +12,7 @@ const Hello = () => (
 				fontSize: '20px',
 			}}>
 			<p>
-				Create new page 2222
+				Create new page TEST yibei!!!!
 			</p>
 		</div>
 	</Layout>
